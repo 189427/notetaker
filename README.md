@@ -36,7 +36,7 @@ Clone my repository or download the zip file.
 No testing is currently set up
 
 Contribution
-Enail me for contribution.
+This was made by Brian Weinthal and Hayden Carr
 
 Questions
 If you have any questions or concerns feel free to contact me at bwein@gmail.com You can also reach me out through my Github profile at 189427
